@@ -1,0 +1,12 @@
+ul {
+  display: flex;
+}
+
+.site-header {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.nav__item a {
+  display: block;
+  padding: 1.5rem 1rem; }
